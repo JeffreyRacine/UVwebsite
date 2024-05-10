@@ -41,7 +41,7 @@ Workshop participants should come with the following applications (i.e., R, RStu
 2.  $\rm\TeX$ 
 
     ::: callout-important
-    -   In order to create PDFs and typeset mathematics you will need to install a recent distribution of $\rm\TeX$. Quarto developers recommend the use of Tiny$\rm\TeX$ (which is based on $\rm\TeX$Live), which you can install from the *Terminal in RStudio* as follows; open RStudio, select the menu *Tools -\> Terminal -\> Move Focus to Terminal*, then type the following command at the *Terminal* Prompt (i.e., inside the *Terminal pane* in RStudio):
+    -   In order to create PDFs and typeset mathematics you will need to install a recent distribution of $\rm\TeX$. Quarto developers recommend the use of Tiny$\rm\TeX$ (which is based on $\rm\TeX$Live), which you can install from the *Terminal in RStudio* as follows; open RStudio, look for the menus at the top of the screen, then select `"Tools"` -\> `"Terminal"` -\> `"Move Focus to Terminal"`, then type the following command at the *Terminal* Prompt (i.e., inside the *Terminal pane* in RStudio):
 
         > *quarto install tinytex*
 
