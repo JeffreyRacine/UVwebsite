@@ -30,7 +30,7 @@ Participants are encouraged, if possible, to bring a laptop with them pre-loaded
 
 Workshop participants should come with the following applications (i.e., R, RStudio, and $\rm\TeX$) and R libraries (i.e., the R package `np`) pre-installed on your laptop computer:
 
-1.  R and RStudio (see <a href="https://posit.co/download/rstudio-desktop">posit.co/download/rstudio-desktop</a>)
+1.  Install R and RStudio (see <a href="https://posit.co/download/rstudio-desktop">posit.co/download/rstudio-desktop</a>)
 
     ::: callout-important
     -   You *must* install R before installing RStudio (otherwise RStudio will not function, so the order of installation is critical)
@@ -38,7 +38,7 @@ Workshop participants should come with the following applications (i.e., R, RStu
     -   If you are using macOS (i.e., an Apple laptop), when you run the RStudio installer you need to *manually* copy/drag the RStudio app to the Applications folder
     :::
 
-2.  $\rm\TeX$ 
+2.  Install $\rm\TeX$ 
 
     ::: callout-important
     -   In order to create PDFs and typeset mathematics you will need to install a recent distribution of $\rm\TeX$. Quarto developers recommend the use of Tiny$\rm\TeX$ (which is based on $\rm\TeX$Live), which you can install from the *Terminal in RStudio* as follows; open RStudio, look for the menus at the top of the screen, then select `"Tools"` -\> `"Terminal"` -\> `"Move Focus to Terminal"`, then type the following command at the *Terminal* Prompt (i.e., inside the *Terminal pane* in RStudio):
@@ -49,7 +49,7 @@ Workshop participants should come with the following applications (i.e., R, RStu
     :::
 
 
-3.  The R package `np` (see installation instructions in Item 2. below, further details to appease your inner geek can be found on CRAN <a href="https://CRAN.R-project.org/package=np">CRAN.R-project.org/package=np</a>)
+3.  Install the R package `np` (see installation instructions in Item 2. below, further details to appease your inner geek can be found on CRAN <a href="https://CRAN.R-project.org/package=np">CRAN.R-project.org/package=np</a>)
 
 ## Test Your Installation
 
@@ -69,7 +69,7 @@ If *the latest versions of* RStudio, R, $\rm\TeX$ and the `np` package are corre
 
 ## Issues
 
-If you succeed at the above, congratulations, but if this does not work for you prior to the workshop please don't worry, as one way or another we will figure it out either before or after the workshop session (i.e., don't stress out if this doesn't work, just do what you can, and as a last resort you have free access to <a href="https://posit.cloud">RStudio Cloud</a>)
+If you succeed at the above, congratulations, but if this does not work for you prior to the workshop please don't worry, as one way or another we will figure it out either before or after the workshop session (i.e., don't stress out if this doesn't work, just do what you can, and as a last resort you can always take advantage of free access to <a href="https://posit.cloud">RStudio Cloud</a> to complete the workshop exercises).
 
 ::: callout-note
 -   Strictly speaking, you do not have to install RStudio to take advantage of Quarto, though for this workshop you will need to install R, and RStudio will be used throughout (RStudio is an integrated development environment while R is the engine for running R code, so strictly speaking you can avoid using RStudio if you wish)
