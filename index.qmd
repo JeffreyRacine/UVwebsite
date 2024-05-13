@@ -1,6 +1,7 @@
 ---
 title: |
     | Nonparametric Workshop in R
+    | XIII FORO INTERNACIONAL DE ESTADÍSTICA APLICADA
     | Veracruz, Mexico, May 20-21, 2024
 title-block-banner: true
 bibliography: veracruz.bib
