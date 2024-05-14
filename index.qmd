@@ -39,7 +39,7 @@ Workshop participants should come with the following applications (i.e., R, RStu
     -   If you are using macOS (i.e., an Apple laptop), when you run the RStudio installer you need to *manually* copy/drag the RStudio app to the Applications folder
     :::
 
-2.  Install $\rm\TeX$ **ONLY** if you do not have a version of $\rm\TeX$ already installed on your system
+2.  Install $\rm\TeX$ **ONLY if you do not have a version of $\rm\TeX$ already installed on your system**
 
     ::: callout-important
     -   In order to create PDFs and typeset mathematics you will need to install a recent distribution of $\rm\TeX$
