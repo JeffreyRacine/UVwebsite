@@ -52,11 +52,11 @@ Workshop participants should come with the following applications (i.e., R, RStu
 
         > *quarto install tinytex*
 
-    -   If you instead wish to install a standalone version of $\rm\TeX$, Windows users can see <a href="https://miktex.org">miktex.org</a>, macOS users can see <a href="https://www.tug.org/mactex">www.tug.org/mactex</a>, and Linux/UNIX users can see <a href="https://www.tug.org/texlive">www.tug.org/texlive</a>
+    -   If you instead wish to install a standalone version of $\rm\TeX$, *skip this step and do not also install Tiny$\rm\TeX$*, instead, Windows users can see <a href="https://miktex.org">miktex.org</a>, macOS users can see <a href="https://www.tug.org/mactex">www.tug.org/mactex</a>, while Linux/UNIX users can see <a href="https://www.tug.org/texlive">www.tug.org/texlive</a>
     :::
 
 
-3.  Install the R package `np` (see installation instructions in Item 2. below, further details to appease your inner geek can be found on CRAN <a href="https://CRAN.R-project.org/package=np">CRAN.R-project.org/package=np</a>)
+3.  Install the latest version of the R package `np` (see installation instructions in Item 2. below, further details to appease your inner geek can be found on CRAN <a href="https://CRAN.R-project.org/package=np">CRAN.R-project.org/package=np</a>)
 
 ## Test Your Installation
 
