@@ -31,7 +31,7 @@ Participants are encouraged, if possible, to bring a laptop with them pre-loaded
 
 Workshop participants should come with the following applications (i.e., R, RStudio, and $\rm\TeX$) and R libraries (i.e., the R package `np`) pre-installed on your laptop computer:
 
-1.  Install R and RStudio (see <a href="https://posit.co/download/rstudio-desktop">posit.co/download/rstudio-desktop</a>)
+1.  Install the Latest Versions of R and RStudio (see <a href="https://posit.co/download/rstudio-desktop">posit.co/download/rstudio-desktop</a>)
 
     ::: callout-important
     -   You *must* install R before installing RStudio (otherwise RStudio will not function, so the order of installation is critical)
@@ -39,12 +39,14 @@ Workshop participants should come with the following applications (i.e., R, RStu
     -   If you are using macOS (i.e., an Apple laptop), when you run the RStudio installer you need to *manually* copy/drag the RStudio app to the Applications folder
     :::
 
-2.  Install $\rm\TeX$ 
+2.  Install $\rm\TeX$ **ONLY** if you do not have a version of $\rm\TeX$ already installed on your system
 
     ::: callout-important
     -   In order to create PDFs and typeset mathematics you will need to install a recent distribution of $\rm\TeX$
     
-    -   Quarto developers recommend the use of Tiny$\rm\TeX$ (which is based on $\rm\TeX$Live), which you can install from the *Terminal in RStudio* as follows; open RStudio, look for the menus at the top of the screen, then select `"Tools"` -\> `"Terminal"` -\> `"Move Focus to Terminal"`, then type the following command at the *Terminal* Prompt (i.e., inside the *Terminal pane* in RStudio):
+    -   However, it is likely that some of you already use $\rm\TeX$ (e.g., $\rm\TeX$Live, MiK$\rm\TeX$) and have it installed on your system, so you can skip this step if you already have a working version of $\rm\TeX$ installed
+    
+    -   **If you do not already have $\rm\TeX$ installed**, then Quarto developers recommend the use of Tiny$\rm\TeX$ (which is based on $\rm\TeX$Live), which you can install from the *Terminal in RStudio* as follows; open RStudio, look for the menus at the top of the screen, then select `"Tools"` -\> `"Terminal"` -\> `"Move Focus to Terminal"`, then type the following command at the *Terminal* Prompt (i.e., inside the *Terminal pane* in RStudio):
 
         > *quarto install tinytex*
 
