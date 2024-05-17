@@ -85,3 +85,14 @@ If you succeed at the above, congratulations, but if this does not work for you 
 
 - See <a href="https://quarto.org/docs/get-started">quarto.org/docs/get-started</a> if a CLI version of Quarto is something that interests you
 :::
+
+
+# Optional Installation of GitHub Copilot
+
+If using generative AI to assist in working with R and Quarto Markdown is something that interests you, then the announcement that [GitHub Copilot](https://docs.github.com/en/copilot) is available via opt-in integration with RStudio is worth taking note of. GitHub Copilot is free to use for verified students, teachers, and maintainers of popular open source projects (see [Quickstart for GitHub Copilot](https://docs.github.com/en/copilot/quickstart) for further details and instructions).
+
+To learn more about setting up RStudio integration with GitHub Copilot visit [RStudio User Guide - GitHub Copilot.](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html) Note that GitHub Pro is available free to students, for more information see [GitHub Pro for Students.](https://education.github.com/pack)
+
+For a video on the announcement and its potential, see [GitHub Copilot in RStudio, it's finally here!](https://www.youtube.com/watch?v=yVq-b5xHmac) Below is a key screenshot from this video that underscores how a comment in R is used as a prompt by Copilot resulting in a "ghost text" response that you can accept (tab will insert the suggestion into your document) or not.
+
+![RStudio Copilot screenshot](copilot_screenshot.png "RStudio Copilot screenshot"){alt="RStudio Copilot screenshot"}
